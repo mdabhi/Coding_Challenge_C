@@ -1,5 +1,4 @@
-#### Coding_Challenge_C
-This project was submitted by Minita Dabhi as solution of coding challenge.
+#### This project was submitted by Minita Dabhi as solution of coding challenge.
 
 The task is to create a solution to manage a log file. This involves adding records to a log file, and printing the contents of a log file. The log file has a predefined format, as specified in softawre requirements document. 
 
